@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\GitHub\\GALAVR\\Gala_CenterUE5\\Source\\Gala_CenterUE5\\Gala_CenterUE5.Build.cs",
+		"D:\\GitHub\\GALAVR\\Gala_CenterUE5\\Source\\Gala_CenterUE5.Target.cs",
+		"D:\\GitHub\\GALAVR\\Gala_CenterUE5\\Source\\Gala_CenterUE5Editor.Target.cs"
+	],
+	"EngineVersion": "5.0.1"
+}

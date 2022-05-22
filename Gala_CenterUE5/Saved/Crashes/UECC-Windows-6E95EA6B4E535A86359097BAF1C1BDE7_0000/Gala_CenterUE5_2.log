@@ -1,0 +1,979 @@
+﻿Log file open, 05/20/22 14:08:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=30316)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Gala_CenterUE5
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-19764885"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.1-19764885+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" D:/GitHub/GALAVR/Gala_CenterUE5/Gala_CenterUE5.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H1) "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 7 5800X 8-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="3edc4db64ada8b1fbe69d3a596e9a9a2"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.480799
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-6E95EA6B4E535A86359097BAF1C1BDE7
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Mac ini files took 0.06 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.06 seconds
+LogConfig: Display: Loading IOS ini files took 0.07 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.07 seconds
+LogConfig: Display: Loading Android ini files took 0.07 seconds
+LogConfig: Display: Loading Unix ini files took 0.08 seconds
+LogConfig: Display: Loading Windows ini files took 0.08 seconds
+LogConfig: Display: Loading TVOS ini files took 0.08 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.09 seconds
+LogConfig: Display: Loading Linux ini files took 0.09 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin Water
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin Landmass
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin CesiumForUnreal
+LogPluginManager: Found config from plugin[CesiumForUnreal] Engine
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin PhysXVehicles
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SunPosition
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WebBrowserWidget
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Water/Content/' mounted to '/Water/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Landmass/Content/' mounted to '/Landmass/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Marketplace/CesiumForUnreal/Content/' mounted to '/CesiumForUnreal/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/SunPosition/Content/' mounted to '/SunPosition/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/WebBrowserWidget/Content/' mounted to '/WebBrowserWidget/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-19764885
+LogInit: Engine Version: 5.0.1-19764885+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H1) (), CPU: AMD Ryzen 7 5800X 8-Core Processor             , GPU: NVIDIA GeForce RTX 3080 Ti
+LogInit: Compiled (64-bit): Apr 15 2022 04:06:52
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.05.20-18.08.28:917][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.05.20-18.08.28:917][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.05.20-18.08.28:917][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.05.20-18.08.28:917][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.05.20-18.08.28:917][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.05.20-18.08.28:917][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.05.20-18.08.28:917][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.05.20-18.08.28:917][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.05.20-18.08.28:917][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.05.20-18.08.28:917][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.05.20-18.08.28:917][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.05.20-18.08.28:917][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.05.20-18.08.28:917][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.05.20-18.08.28:917][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.05.20-18.08.28:917][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.05.20-18.08.28:917][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.05.20-18.08.28:917][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.05.20-18.08.28:917][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.05.20-18.08.28:917][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.05.20-18.08.28:917][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.05.20-18.08.28:917][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.05.20-18.08.28:917][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.05.20-18.08.28:917][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.05.20-18.08.28:917][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.05.20-18.08.28:917][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.05.20-18.08.28:918][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.05.20-18.08.28:918][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.05.20-18.08.28:918][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.05.20-18.08.28:918][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.05.20-18.08.28:918][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.05.20-18.08.28:918][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.05.20-18.08.28:918][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.05.20-18.08.28:918][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.05.20-18.08.28:918][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.05.20-18.08.28:918][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.05.20-18.08.28:918][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.05.20-18.08.28:918][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.05.20-18.08.28:918][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.05.20-18.08.28:918][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.05.20-18.08.28:918][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.05.20-18.08.28:918][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.05.20-18.08.28:918][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.05.20-18.08.28:918][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.05.20-18.08.28:918][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.05.20-18.08.28:918][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.05.20-18.08.28:918][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.05.20-18.08.28:918][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.05.20-18.08.28:918][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.05.20-18.08.28:918][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.05.20-18.08.28:918][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.05.20-18.08.28:918][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.05.20-18.08.28:918][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.05.20-18.08.28:918][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.05.20-18.08.28:918][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.05.20-18.08.28:918][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.05.20-18.08.28:918][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.05.20-18.08.28:918][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.05.20-18.08.28:927][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.05.20-18.08.28:927][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.05.20-18.08.28:927][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.05.20-18.08.28:927][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.05.20-18.08.28:927][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.05.20-18.08.28:927][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.05.20-18.08.28:927][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.05.20-18.08.28:927][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.05.20-18.08.28:928][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.05.20-18.08.28:928][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.05.20-18.08.28:928][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.05.20-18.08.28:959][  0]LogD3D12RHI: Aftermath initialized
+[2022.05.20-18.08.28:959][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.05.20-18.08.29:220][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3080 Ti (Max supported Feature Level 12_1, shader model 6.6)
+[2022.05.20-18.08.29:220][  0]LogD3D12RHI: Adapter has 12108MB of dedicated video memory, 0MB of dedicated system memory, and 16326MB of shared system memory, 2 output[s]
+[2022.05.20-18.08.29:228][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.05.20-18.08.29:229][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16326MB of shared system memory, 0 output[s]
+[2022.05.20-18.08.29:229][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.05.20-18.08.29:229][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.05.20-18.08.29:229][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.05.20-18.08.29:229][  0]LogHAL: Display: Platform has ~ 32 GB [34238517248 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.05.20-18.08.29:229][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.05.20-18.08.29:229][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.05.20-18.08.29:229][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.05.20-18.08.29:230][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.05.20-18.08.29:230][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitHub/GALAVR/Gala_CenterUE5/Saved/Config/WindowsEditor/Editor.ini]
+[2022.05.20-18.08.29:230][  0]LogInit: Computer: BLD
+[2022.05.20-18.08.29:230][  0]LogInit: User: ryan
+[2022.05.20-18.08.29:230][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.05.20-18.08.29:230][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.05.20-18.08.29:230][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.05.20-18.08.29:230][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.05.20-18.08.29:230][  0]LogMemory: Process Physical Memory: 277.95 MB used, 286.72 MB peak
+[2022.05.20-18.08.29:230][  0]LogMemory: Process Virtual Memory: 248.03 MB used, 248.03 MB peak
+[2022.05.20-18.08.29:230][  0]LogMemory: Physical Memory: 13999.91 MB used,  18652.49 MB free, 32652.39 MB total
+[2022.05.20-18.08.29:230][  0]LogMemory: Virtual Memory: 24998.21 MB used,  27110.19 MB free, 52108.39 MB total
+[2022.05.20-18.08.29:230][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.05.20-18.08.29:240][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.05.20-18.08.29:269][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.05.20-18.08.29:270][  0]LogInit: Using OS detected language (en-US).
+[2022.05.20-18.08.29:270][  0]LogInit: Using OS detected locale (en-US).
+[2022.05.20-18.08.29:283][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.05.20-18.08.29:533][  0]LogInit: Setting process to per monitor DPI aware
+[2022.05.20-18.08.29:557][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.05.20-18.08.29:557][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.05.20-18.08.29:557][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.05.20-18.08.29:586][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.05.20-18.08.29:586][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.05.20-18.08.29:860][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.05.20-18.08.29:866][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.05.20-18.08.29:866][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.05.20-18.08.30:019][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.05.20-18.08.30:019][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.05.20-18.08.30:019][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.05.20-18.08.30:019][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.05.20-18.08.30:019][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.05.20-18.08.30:019][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.05.20-18.08.30:019][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.05.20-18.08.30:019][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.05.20-18.08.30:019][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.05.20-18.08.30:019][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.05.20-18.08.30:019][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.05.20-18.08.30:019][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.05.20-18.08.30:019][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.05.20-18.08.30:019][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.05.20-18.08.30:019][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.05.20-18.08.30:019][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.05.20-18.08.30:152][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.05.20-18.08.30:162][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.05.20-18.08.30:181][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.05.20-18.08.30:216][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.05.20-18.08.30:216][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.05.20-18.08.30:266][  0]LogD3D12RHI:     GPU DeviceId: 0x2208 (for the marketing name, search the web for "GPU Device Id")
+[2022.05.20-18.08.30:266][  0]LogWindows: EnumDisplayDevices:
+[2022.05.20-18.08.30:266][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3080 Ti' (P:1 D:1)
+[2022.05.20-18.08.30:266][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3080 Ti' (P:0 D:1)
+[2022.05.20-18.08.30:267][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3080 Ti' (P:0 D:0)
+[2022.05.20-18.08.30:267][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3080 Ti' (P:0 D:0)
+[2022.05.20-18.08.30:267][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.05.20-18.08.30:267][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3080 Ti
+[2022.05.20-18.08.30:267][  0]LogD3D12RHI:   Driver Version: 512.15 (internal:30.0.15.1215, unified:512.15)
+[2022.05.20-18.08.30:267][  0]LogD3D12RHI:      Driver Date: 3-17-2022
+[2022.05.20-18.08.30:267][  0]LogRHI: Texture pool is 7144 MB (70% of 10206 MB)
+[2022.05.20-18.08.30:267][  0]LogD3D12RHI: Async texture creation enabled
+[2022.05.20-18.08.30:267][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.05.20-18.08.30:282][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.05.20-18.08.30:293][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/GitHub/GALAVR/Gala_CenterUE5/Gala_CenterUE5.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/GitHub/GALAVR/Gala_CenterUE5/Intermediate/TurnkeyReport_0.log" -log="D:/GitHub/GALAVR/Gala_CenterUE5/Intermediate/TurnkeyLog_0.log" -project="D:/GitHub/GALAVR/Gala_CenterUE5/Gala_CenterUE5.uproject"  -platform=all'
+[2022.05.20-18.08.30:293][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/GitHub/GALAVR/Gala_CenterUE5/Gala_CenterUE5.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/GitHub/GALAVR/Gala_CenterUE5/Intermediate/TurnkeyReport_0.log" -log="D:/GitHub/GALAVR/Gala_CenterUE5/Intermediate/TurnkeyLog_0.log" -project="D:/GitHub/GALAVR/Gala_CenterUE5/Gala_CenterUE5.uproject"  -platform=all" ]
+[2022.05.20-18.08.30:334][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.05.20-18.08.30:348][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.05.20-18.08.30:348][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.05.20-18.08.30:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.05.20-18.08.30:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.05.20-18.08.30:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.05.20-18.08.30:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.05.20-18.08.30:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.05.20-18.08.30:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.05.20-18.08.30:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.05.20-18.08.30:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.05.20-18.08.30:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.05.20-18.08.30:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.05.20-18.08.30:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.05.20-18.08.30:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.05.20-18.08.30:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.05.20-18.08.30:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.05.20-18.08.30:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.05.20-18.08.30:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.05.20-18.08.30:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.05.20-18.08.30:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.05.20-18.08.30:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.05.20-18.08.30:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.05.20-18.08.30:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.05.20-18.08.30:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.05.20-18.08.30:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.05.20-18.08.30:432][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.05.20-18.08.30:432][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.05.20-18.08.30:432][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.05.20-18.08.30:432][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.05.20-18.08.30:432][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.05.20-18.08.30:446][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.05.20-18.08.30:451][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.05.20-18.08.30:451][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.05.20-18.08.30:451][  0]LogTargetPlatformManager:   ADPCM
+[2022.05.20-18.08.30:451][  0]LogTargetPlatformManager:   PCM
+[2022.05.20-18.08.30:455][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.05.20-18.08.30:455][  0]LogTargetPlatformManager:   BINKA
+[2022.05.20-18.08.30:456][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.05.20-18.08.30:456][  0]LogTargetPlatformManager:   OGG
+[2022.05.20-18.08.30:456][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.05.20-18.08.30:456][  0]LogTargetPlatformManager:   OPUS
+[2022.05.20-18.08.30:520][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.05.20-18.08.30:530][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.05.20-18.08.30:530][  0]LogTargetPlatformManager:   SF_METAL
+[2022.05.20-18.08.30:530][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.05.20-18.08.30:530][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.05.20-18.08.30:530][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.05.20-18.08.30:530][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.05.20-18.08.30:530][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.05.20-18.08.30:530][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.05.20-18.08.30:530][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.05.20-18.08.30:530][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.05.20-18.08.30:530][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.05.20-18.08.30:530][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.05.20-18.08.30:530][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.05.20-18.08.30:530][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.05.20-18.08.30:530][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.05.20-18.08.30:530][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.05.20-18.08.30:537][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.05.20-18.08.30:537][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.05.20-18.08.30:537][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.05.20-18.08.30:537][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.05.20-18.08.30:537][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.05.20-18.08.30:537][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.05.20-18.08.30:537][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.05.20-18.08.30:537][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.05.20-18.08.30:537][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/GitHub/GALAVR/Gala_CenterUE5/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.05.20-18.08.30:538][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.05.20-18.08.30:538][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/GitHub/GALAVR/Gala_CenterUE5/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.05.20-18.08.30:538][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.05.20-18.08.30:542][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/GitHub/GALAVR/Gala_CenterUE5/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.05.20-18.08.30:542][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.05.20-18.08.30:542][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/GitHub/GALAVR/Gala_CenterUE5/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.20-18.08.30:543][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.05.20-18.08.30:590][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1092 MiB)
+[2022.05.20-18.08.30:590][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.20-18.08.30:590][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.05.20-18.08.30:611][  0]LogDerivedDataCache: Speed tests for C:/Users/ryan/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2022.05.20-18.08.30:611][  0]LogDerivedDataCache: Display: Performance to C:/Users/ryan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.10ms. RandomReadSpeed=135.53MBs, RandomWriteSpeed=77.61MBs. Assigned SpeedClass 'Local'
+[2022.05.20-18.08.30:612][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ryan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.05.20-18.08.30:613][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.05.20-18.08.30:613][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.05.20-18.08.30:629][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.05.20-18.08.30:629][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.05.20-18.08.30:630][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (D:/GitHub/GALAVR/Gala_CenterUE5/Intermediate/Shaders/WorkingDirectory/19976/).
+[2022.05.20-18.08.30:630][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ryan/AppData/Local/Temp/UnrealShaderWorkingDir/F319702D4DE13A054514668FD4BC3584/'.
+[2022.05.20-18.08.30:631][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.05.20-18.08.30:631][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.05.20-18.08.33:606][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.05.20-18.08.33:606][  0]LogSlate: Using FreeType 2.10.0
+[2022.05.20-18.08.33:607][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.05.20-18.08.33:686][  0]LogAssetRegistry: FAssetRegistry took 0.0270 seconds to start up
+[2022.05.20-18.08.33:700][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.05.20-18.08.34:105][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.05.20-18.08.34:106][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.05.20-18.08.34:703][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.05.20-18.08.34:704][  0]LogDeviceProfileManager: Active device profile: [0000066BEB657000][0000066BDC7AA000 50] WindowsEditor
+[2022.05.20-18.08.34:704][  0]LogDeviceProfileManager: Profiles: [0000066BEB656AC0][0000066BDC7A2800 50] Windows, [0000066BEB657000][0000066BDC7AA000 50] WindowsEditor, [0000066BEB654980][0000066BE30FC800 50] WindowsServer, [0000066BEB6539C0][0000066BDC767800 50] WindowsClient, [0000066BEB656200][0000066BCF137800 50] IOS, [0000066BEB6524C0][0000066BE30FA000 50] iPadAir2, [0000066BEB655240][0000066BEC9A0000 50] IPadPro, [0000066BEB6563C0][0000066BEC9A2800 50] iPadAir3, [0000066BEB655780][0000066BEC9A7800 50] iPadAir4, [0000066BEB653640][0000066BEC9AA000 50] iPadMini4, [0000066BEB657380][0000066BEC9AC800 50] iPadMini5, [0000066BEB655B00][0000066BDC7A0000 50] iPadMini6, [0000066BEB65A480][0000066BEC9B2800 50] iPhone6S, [0000066BEB65A800][0000066BEC9B0000 50] iPhone7, [0000066BEB65AB80][0000066BEC9B5000 50] iPodTouch7, [0000066BEB65A9C0][0000066BEC9BA000 50] iPhone6SPlus, [0000066BEB6532C0][0000066BEC9BC800 50] iPhone7Plus, [0000066BEB655400][0000066BEC9A5000 50] iPhoneSE, [0000066BEB657FC0][0000066BEC9B7800 50] iPhone8, [0000066BEB659140][0000066BEB7C0000 50] iPhone8Plus, [0000066BEB657540][0000066BEB7C5000 50] iPhoneX, [0000066BEB652680][0000066BEB7C7800 50] iPhoneXS, [0000066BEB654B40][0000066BEB7CA000 50] iPhoneXSMax, [0000066BEB658DC0][0000066BEB7CC800 50] iPhoneXR, [0000066BEB654600][0000066BDC765000 50] iPhone11, [0000066BEB655080][0000066BEC9C0000 50] iPhone11Pro, [0000066BEB657E00][0000066BEC9C5000 50] iPhone11ProMax, [0000066BEB658880][0000066BEC9C7800 50] iPhoneSE2, [0000066BEB658C00][0000066BEC9CA000 50] iPhone12Mini, [0000066BEB6540C0][0000066BEC9CC800 50] iPhone12, [0000066BEB653480][0000066BEB7C2800 50] iPhone12Pro, [0000066BEB6547C0][0000066BEC9D0000 50] iPhone12ProMax, [0000066BEB658340][0000066BEC9D5000 50] iPhone13Mini, [0000066BEB653B80][0000066BEC9D7800 50] iPhone13, [0000066BEB65A2C0][0000066BEC9DA000 50] iPhone13Pro, [0000066BEB65A640][0000066BEC9DC800 50] iPhone13ProMax, [0000066BEB6586C0][0000066BEC9C2800 50] iPadPro105, [0000066BEB656900][0000066BEC9E0000 50] iPadPro129, [0000066BEB658F80][0000066BEC9E5000 50] iPadPro97, [0000066BEB655E80][0000066BEC9E7800 50] iPadPro2_129, [0000066BEB654440][0000066BEC9EA000 50] iPad5, [0000066BEB656E40][0000066BEC9EC800 50] iPad6, [0000066BEB65A100][0000066BEC9D2800 50] iPad7, [0000066BEB655CC0][0000066BEC9F0000 50] iPad8, [0000066BEB653100][0000066BEC9F5000 50] iPad9, [0000066BEB656740][0000066BEC9F7800 50] iPadPro11, [0000066BEB659300][0000066BEC9FA000 50] iPadPro2_11, [0000066BEB654EC0][0000066BEC9FC800 50] iPadPro3_11, [0000066BEB657C40][0000066BEC9E2800 50] iPadPro3_129, [0000066BEB652F40][0000066BECA00000 50] iPadPro4_129, [0000066BEB653D40][0000066BECA05000 50] iPadPro5_129, [0000066BEB657700][0000066BECA07800 50] AppleTV, [0000066BEB653800][0000066BECA0A000 50] AppleTV4K, [0000066BEB657A80][0000066BECA0C800 50] TVOS, [0000066BEB65CE80][0000066BECA20000 50] Mac, [0000066BEB65D200][0000066BECA22800 50] MacEditor, [0000066BEB659A00][0000066BECA27800 50] MacClient, [0000066BEB65BD00][0000066BECA2A000 50] MacServer, [0000066BEB65D740][0000066BEC9F2800 50] Linux, [0000066BEB658180][0000066BECA02800 50] LinuxEditor, [0000066BEB65B980][0000066BECA2C800 50] LinuxArm64Editor, [0000066BEB655940][0000066BECA10000 50] LinuxArm64, [0000066BEB656040][0000066BECA15000 50] LinuxClient, [0000066BEB65C240][0000066BECA17800 50] LinuxArm64Client, [0000066BEB65D900][0000066BECA1A000 50] LinuxServer, [0000066BEB65C400][0000066BECA1C800 50] LinuxArm64Server, [0000066BEB658500][0000066BECA25000 50] Android, [0000066BEB653F00][0000066BECA30000 50] Android_Preview_OpenGL, [0000066BEB65C780][0000066BECA35000 50] Android_Preview_Vulkan, [0000066BEB65B7C0][0000066BECA37800 50] Android_Low, [0000066BEB654D00][0000066BECA3A000 50] Android_Mid, [0000066BEB65D040][0000066BECA3C800 50] Android_High, [0000066BEB65AF00][0000066BECA12800 50] Android_Default, [0000066BEB65BEC0][0000066BECA40000 50] Android_Adreno4xx, [0000066BEB656580][0000066BECA45000 50] Android_Adreno5xx_Low, [0000066BEB6571C0][0000066BECA47800 50] Android_Adreno5xx, [0000066BEB65D3C0][0000066BECA4A000 50] Android_Adreno6xx, [0000066BEB6594C0][0000066BECA4C800 50] Android_Adreno6xx_Vulkan, [0000066BEB659D80][0000066BECA32800 50] Android_Adreno7xx, [0000066BEB659840][0000066BECA50000 50] Android_Adreno7xx_Vulkan, [0000066BEB65AD40][0000066BECA55000 50] Android_Mali_T6xx, [0000066BEB65CCC0][0000066BECA57800 50] Android_Mali_T7xx, [0000066BEB658A40][0000066BECA5A000 50] Android_Mali_T8xx, [0000066BEB65D580][0000066BECA5C800 50] Android_Mali_G71, [0000066BEB65E380][0000066BECA42800 50] Android_Mali_G72, [0000066BEB651F80][0000066BECA60000 50] Android_Mali_G72_Vulkan, [0000066BEB6555C0][0000066BECA65000 50] Android_Mali_G76, [0000066BEB65C5C0][0000066BECA67800 50] Android_Mali_G76_Vulkan, [0000066BEB65E8C0][0000066BECA6A000 50] Android_Mali_G77, [0000066BEB65CB00][0000066BECA6C800 50] Android_Mali_G77_Vulkan, [0000066BEB65B280][0000066BECA52800 50] Android_Mali_G78, [0000066BEB652840][0000066BECA70000 50] Android_Mali_G78_Vulkan, [0000066BEB65B600][0000066BECA75000 50] Android_Mali_G710, [0000066BEB65EFC0][0000066BECA77800 50] Android_Mali_G710_Vulkan, [0000066BEB65BB40][0000066BECA7A000 50] Android_Xclipse_920, [0000066BEB65FA40][0000066BECA7C800 50] Android_Xclipse_920_Vulkan, [0000066BEB659F40][0000066BECA62800 50] Android_Vulkan_SM5, [0000066BEB65F340][0000066BECA80000 50] Android_PowerVR_G6xxx, [0000066BEB65FC00][0000066BECA85000 50] Android_PowerVR_GT7xxx, [0000066BEB65E540][0000066BECA87800 50] Android_PowerVR_GE8xxx, [0000066BEB65F880][0000066BECA8A000 50] Android_PowerVR_GM9xxx, [0000066BEB65EA80][0000066BECA8C800 50] Android_PowerVR_GM9xxx_Vulkan, [0000066BEB65E700][0000066BECA72800 50] Android_TegraK1, [0000066BECA924C0][0000066BECAA0000 50] Android_Unknown_Vulkan, [0000066BECA90540][0000066BECAA5000 50] Oculus_Quest, [0000066BECA92A00][0000066BECAA7800 50] Oculus_Quest2, [0000066BECA91180][0000066BECAAA000 50] HoloLens, 
+[2022.05.20-18.08.34:704][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.05.20-18.08.34:709][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.05.20-18.08.34:709][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.05.20-18.08.34:709][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.05.20-18.08.34:709][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.05.20-18.08.34:709][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.05.20-18.08.34:748][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.05.20-18.08.35:141][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.05.20-18.08.35:141][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.05.20-18.08.35:141][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.05.20-18.08.35:141][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.05.20-18.08.35:141][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.05.20-18.08.35:172][  0]LogNetVersion: Gala_CenterUE5 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2130919724)
+[2022.05.20-18.08.35:420][  0]LogSlate: Border
+[2022.05.20-18.08.35:420][  0]LogSlate: BreadcrumbButton
+[2022.05.20-18.08.35:420][  0]LogSlate: Default
+[2022.05.20-18.08.35:420][  0]LogSlate: Icons.Save
+[2022.05.20-18.08.35:420][  0]LogSlate: Icons.Toolbar.Settings
+[2022.05.20-18.08.35:420][  0]LogSlate: ListView
+[2022.05.20-18.08.35:420][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.05.20-18.08.35:420][  0]LogSlate: SoftwareCursor_Grab
+[2022.05.20-18.08.35:420][  0]LogSlate: TableView.DarkRow
+[2022.05.20-18.08.35:420][  0]LogSlate: TableView.Row
+[2022.05.20-18.08.35:420][  0]LogSlate: TreeView
+[2022.05.20-18.08.35:800][  0]SourceControl: Source control is disabled
+[2022.05.20-18.08.35:854][  0]SourceControl: Source control is disabled
+[2022.05.20-18.08.35:854][  0]SourceControl: Source control is disabled
+[2022.05.20-18.08.36:102][  0]LogUObjectArray: 20823 objects as part of root set at end of initial load.
+[2022.05.20-18.08.36:102][  0]LogUObjectAllocator: 5780856 out of 0 bytes used by permanent object pool.
+[2022.05.20-18.08.36:102][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.05.20-18.08.36:710][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: E1A85EC04A18C8B4ABF9B7B90CE3D938 | Instance: 89BE8470421F5D381D67FC94DE80EC7F (BLD-19976).
+[2022.05.20-18.08.36:798][  0]LogPython: Using Python 3.9.7
+[2022.05.20-18.08.38:549][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.05.20-18.08.38:843][  0]LogCEFBrowser: CEF GPU acceleration enabled
+[2022.05.20-18.08.38:928][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.05.20-18.08.39:602][  0]LogOpenImageDenoise: OIDN starting up
+[2022.05.20-18.08.39:622][  0]SourceControl: Source control is disabled
+[2022.05.20-18.08.39:637][  0]SourceControl: Source control is disabled
+[2022.05.20-18.08.39:649][  0]LogUProjectInfo: Found projects:
+[2022.05.20-18.08.39:671][  0]SourceControl: Source control is disabled
+[2022.05.20-18.08.39:780][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.05.20-18.08.39:814][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.20-18.08.39:814][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.20-18.08.40:284][  0]LogCollectionManager: Loaded 0 collections in 0.003543 seconds
+[2022.05.20-18.08.40:432][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/GALAVR/Gala_CenterUE5/Saved/Collections/' took 0.00s
+[2022.05.20-18.08.40:432][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/GALAVR/Gala_CenterUE5/Content/Developers/ryan/Collections/' took 0.00s
+[2022.05.20-18.08.40:432][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/GALAVR/Gala_CenterUE5/Content/Collections/' took 0.00s
+[2022.05.20-18.08.41:060][  0]LogEngine: Initializing Engine...
+[2022.05.20-18.08.41:073][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.05.20-18.08.41:075][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.05.20-18.08.41:669][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.05.20-18.08.41:670][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.20-18.08.41:685][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.20-18.08.41:717][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.05.20-18.08.41:718][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.05.20-18.08.41:742][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.05.20-18.08.41:743][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.05.20-18.08.41:743][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.05.20-18.08.41:744][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.05.20-18.08.41:744][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.05.20-18.08.41:744][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.20-18.08.41:744][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.20-18.08.41:744][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.20-18.08.41:744][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.20-18.08.41:744][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.20-18.08.41:744][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.20-18.08.41:744][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.20-18.08.41:744][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.20-18.08.41:744][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.20-18.08.41:744][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.20-18.08.41:744][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.20-18.08.41:759][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.20-18.08.41:822][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphones (4- High Definition Audio Device)
+[2022.05.20-18.08.41:822][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.20-18.08.41:826][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.20-18.08.41:826][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.20-18.08.41:827][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.05.20-18.08.41:827][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.05.20-18.08.41:829][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.05.20-18.08.41:829][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.05.20-18.08.41:829][  0]LogInit: FAudioDevice initialized.
+[2022.05.20-18.08.41:829][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.20-18.08.41:829][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.05.20-18.08.41:829][  0]LogInit: Texture streaming: Enabled
+[2022.05.20-18.08.41:868][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.1-19764885+++UE5+Release-5.0
+[2022.05.20-18.08.41:879][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.05.20-18.08.41:905][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.05.20-18.08.41:916][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.05.20-18.08.41:916][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: Gala_CenterUE5Editor Win64 Development
+[2022.05.20-18.08.44:058][  0]LogLiveCoding: Display: First instance in process group "UE_Gala_CenterUE5_0x6b98a6aa", spawning console
+[2022.05.20-18.08.44:058][  0]LogLiveCoding: Display: Waiting for server
+[2022.05.20-18.08.44:058][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.05.20-18.08.44:120][  0]LogInit: Transaction tracking system initialized
+[2022.05.20-18.08.44:216][  0]BlueprintLog: New page: Editor Load
+[2022.05.20-18.08.44:431][  0]LocalizationService: Localization service is disabled
+[2022.05.20-18.08.44:484][  0]TimingProfiler: Initialize
+[2022.05.20-18.08.44:484][  0]TimingProfiler: OnSessionChanged
+[2022.05.20-18.08.44:484][  0]LoadingProfiler: Initialize
+[2022.05.20-18.08.44:484][  0]LoadingProfiler: OnSessionChanged
+[2022.05.20-18.08.44:484][  0]NetworkingProfiler: Initialize
+[2022.05.20-18.08.44:485][  0]NetworkingProfiler: OnSessionChanged
+[2022.05.20-18.08.44:485][  0]MemoryProfiler: Initialize
+[2022.05.20-18.08.44:485][  0]MemoryProfiler: OnSessionChanged
+[2022.05.20-18.08.45:364][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/GALAVR/Gala_CenterUE5/Content/' took 0.03s
+[2022.05.20-18.08.45:364][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.05.20-18.08.45:695][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.05.20-18.08.45:699][  0]SourceControl: Source control is disabled
+[2022.05.20-18.08.45:699][  0]LogUnrealEdMisc: Loading editor; pre map load, took 19.050
+[2022.05.20-18.08.45:699][  0]Cmd: MAP LOAD FILE="D:/GitHub/GALAVR/Gala_CenterUE5/Content/MyContent/Maps/Gala_Center0.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.20-18.08.45:699][  0]LightingResults: New page: Lighting Build
+[2022.05.20-18.08.45:706][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-18.08.45:706][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-18.08.45:706][  0]MapCheck: New page: Map Check
+[2022.05.20-18.08.45:707][  0]LightingResults: New page: Lighting Build
+[2022.05.20-18.08.45:716][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.20-18.08.45:722][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.05.20-18.08.45:818][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Gala_Center0'.
+[2022.05.20-18.08.45:824][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.20-18.08.45:825][  0]LogAIModule: Creating AISystem for world Gala_Center0
+[2022.05.20-18.08.45:826][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.05.20-18.08.45:826][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.05.20-18.08.46:067][  0]LogLinker: Warning: [AssetLog] D:\GitHub\GALAVR\Gala_CenterUE5\Content\__ExternalActors__\MyContent\Maps\Gala_Center0\D\XO\OQ0HS1Q26GQ82AO7ZKYHY4.uasset: Failed to load '/Game/MyContent/Blueprints/Actor/SpaceshipControlModule': Can't find file.
+[2022.05.20-18.08.46:067][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/MyContent/Blueprints/Actor/SpaceshipControlModule'
+[2022.05.20-18.08.46:067][  0]LogLinker: Warning: [AssetLog] D:\GitHub\GALAVR\Gala_CenterUE5\Content\__ExternalActors__\MyContent\Maps\Gala_Center0\D\XO\OQ0HS1Q26GQ82AO7ZKYHY4.uasset: Failed to load '/Game/__ExternalActors__/MyContent/Maps/Gala_Center0/0/O5/QMDULYR9EZGQUCG4DX93PK': Can't find file.
+[2022.05.20-18.08.46:067][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/0/O5/QMDULYR9EZGQUCG4DX93PK'
+[2022.05.20-18.08.46:069][  0]LogWorldPartition: Warning: Can't load actor guid `E43A1704490C1CEAFE3957B255EB2ED3` ('SpaceshipControlPrompt_BP_C_UAID_04421AF17C8D120F01_1748134176') from package '/Game/__ExternalActors__/MyContent/Maps/Gala_Center0/D/XO/OQ0HS1Q26GQ82AO7ZKYHY4'
+[2022.05.20-18.08.46:295][  0]LogWorldPartition: Display: WorldPartition initialize took 468 ms
+[2022.05.20-18.08.46:741][  0]LogCesium: Display: Caching Cesium requests in C:/Users/ryan/AppData/Local/UnrealEngine/5.0/cesium-request-cache.sqlite
+[2022.05.20-18.08.46:744][  0]LogCesium: Warning: Cesium for Unreal has enabled the "Enable Large Worlds" option in this world's settings, as it is required in order to avoid serious culling problems with Cesium3DTilesets in Unreal Engine 5.
+[2022.05.20-18.08.46:744][  0]LogCesium: Loading tileset for asset ID 1
+[2022.05.20-18.08.46:744][  0]LogCesium: Loading tileset for asset ID 1 done
+[2022.05.20-18.08.46:782][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.20-18.08.46:800][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.05.20-18.08.46:801][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.20-18.08.46:801][  0]MapCheck: Warning: Actor ControleModule_BP have missing references to 784F092B4D0BC361F98646A2B954A3E6 
+[2022.05.20-18.08.46:802][  0]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.684ms to complete.
+[2022.05.20-18.08.46:834][  0]LogFileHelpers: Loading map 'Gala_Center0' took 1.135
+[2022.05.20-18.08.46:854][  0]LogUnrealEdMisc: Total Editor Startup Time, took 20.205
+[2022.05.20-18.08.46:854][  0]LogShaderCompilers: Display: ================================================
+[2022.05.20-18.08.46:854][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.20-18.08.46:854][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.05.20-18.08.46:854][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.05.20-18.08.46:854][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.05.20-18.08.46:854][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.05.20-18.08.46:854][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.05.20-18.08.46:854][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.05.20-18.08.46:854][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.05.20-18.08.46:854][  0]LogShaderCompilers: Display: ================================================
+[2022.05.20-18.08.47:042][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-18.08.47:053][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-18.08.47:066][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-18.08.47:076][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-18.08.47:144][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.05.20-18.08.47:144][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.20-18.08.47:145][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.05.20-18.08.47:145][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.20-18.08.47:146][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.05.20-18.08.47:146][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.20-18.08.47:147][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.05.20-18.08.47:147][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.20-18.08.47:148][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.05.20-18.08.47:148][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.20-18.08.47:149][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.05.20-18.08.47:149][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.20-18.08.47:150][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.05.20-18.08.47:150][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.20-18.08.47:151][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.05.20-18.08.47:151][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.20-18.08.47:152][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.05.20-18.08.47:152][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.20-18.08.47:153][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.05.20-18.08.47:153][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.20-18.08.47:392][  0]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.20-18.08.47:400][  0]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.20-18.08.47:402][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.05.20-18.08.47:519][  0]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.05.20-18.08.48:310][  0]LogStall: Startup...
+[2022.05.20-18.08.48:315][  0]LogStall: Startup complete.
+[2022.05.20-18.08.48:327][  0]LogLoad: (Engine Initialization) Total time: 21.68 seconds
+[2022.05.20-18.08.48:327][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.05.20-18.08.48:350][  0]LoadErrors: Error: /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/D/XO/OQ0HS1Q26GQ82AO7ZKYHY4 : Failed import for StaticMeshActor /Game/MyContent/Maps/Gala_Center0.Gala_Center0:PersistentLevel.StaticMeshActor_UAID_04421AF17C8DD50E01_1470021432 Referenced by export BoxComponent /Game/MyContent/Maps/Gala_Center0.Gala_Center0:PersistentLevel.SpaceshipControlPrompt_BP_C_UAID_04421AF17C8D120F01_1748134176.Box
+[2022.05.20-18.08.48:350][  0]LoadErrors: Error: /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/D/XO/OQ0HS1Q26GQ82AO7ZKYHY4 : Failed import for StaticMeshComponent /Game/MyContent/Maps/Gala_Center0.Gala_Center0:PersistentLevel.StaticMeshActor_UAID_04421AF17C8DD50E01_1470021432.StaticMeshComponent0 Referenced by export BoxComponent /Game/MyContent/Maps/Gala_Center0.Gala_Center0:PersistentLevel.SpaceshipControlPrompt_BP_C_UAID_04421AF17C8D120F01_1748134176.Box
+[2022.05.20-18.08.48:350][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': SpaceshipControlModule_C /Game/MyContent/Maps/Gala_Center0.Gala_Center0:PersistentLevel.SpaceshipControlPrompt_BP_C_UAID_04421AF17C8D120F01_1748134176
+[2022.05.20-18.08.48:402][  0]LogAssetRegistry: Asset discovery search completed in 14.7192 seconds
+[2022.05.20-18.08.48:410][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.05.20-18.08.48:414][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.05.20-18.08.52:228][114]LogSlate: Window 'Message Log' being destroyed
+[2022.05.20-18.08.52:235][114]LogSlate: Window 'Message Log' being destroyed
+[2022.05.20-18.08.58:213][465]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.05.20-18.08.58:226][465]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.20-18.08.59:435][543]LogLinker: Warning: [AssetLog] D:\GitHub\GALAVR\Gala_CenterUE5\Content\MyContent\Models\SpaceshipWithCollisions\GALASpaceshipWithCustomCollisionsRCH.uasset: Failed to load '/Game/MyContent/Models/SpaceshipWithCollisions/10_-_Desk_1': Can't find file.
+[2022.05.20-18.08.59:435][543]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/MyContent/Models/SpaceshipWithCollisions/10_-_Desk_1'
+[2022.05.20-18.08.59:435][543]LogLinker: Warning: [AssetLog] D:\GitHub\GALAVR\Gala_CenterUE5\Content\MyContent\Models\SpaceshipWithCollisions\GALASpaceshipWithCustomCollisionsRCH.uasset: Failed to load '/Game/MyContent/Models/SpaceshipWithCollisions/11_-_Desk_2': Can't find file.
+[2022.05.20-18.08.59:435][543]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/MyContent/Models/SpaceshipWithCollisions/11_-_Desk_2'
+[2022.05.20-18.08.59:435][543]LogLinker: Warning: [AssetLog] D:\GitHub\GALAVR\Gala_CenterUE5\Content\MyContent\Models\SpaceshipWithCollisions\GALASpaceshipWithCustomCollisionsRCH.uasset: Failed to load '/Game/MyContent/Models/SpaceshipWithCollisions/13_-_Desk_3': Can't find file.
+[2022.05.20-18.08.59:435][543]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/MyContent/Models/SpaceshipWithCollisions/13_-_Desk_3'
+[2022.05.20-18.08.59:436][543]LogLinker: Warning: [AssetLog] D:\GitHub\GALAVR\Gala_CenterUE5\Content\MyContent\Models\SpaceshipWithCollisions\GALASpaceshipWithCustomCollisionsRCH.uasset: Failed to load '/Game/MyContent/Models/SpaceshipWithCollisions/14_-_Monitor_Texture': Can't find file.
+[2022.05.20-18.08.59:436][543]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/MyContent/Models/SpaceshipWithCollisions/14_-_Monitor_Texture'
+[2022.05.20-18.08.59:436][543]LogLinker: Warning: [AssetLog] D:\GitHub\GALAVR\Gala_CenterUE5\Content\MyContent\Models\SpaceshipWithCollisions\GALASpaceshipWithCustomCollisionsRCH.uasset: Failed to load '/Game/MyContent/Models/SpaceshipWithCollisions/15_-_Keyboard': Can't find file.
+[2022.05.20-18.08.59:436][543]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/MyContent/Models/SpaceshipWithCollisions/15_-_Keyboard'
+[2022.05.20-18.08.59:436][543]LogLinker: Warning: [AssetLog] D:\GitHub\GALAVR\Gala_CenterUE5\Content\MyContent\Models\SpaceshipWithCollisions\GALASpaceshipWithCustomCollisionsRCH.uasset: Failed to load '/Game/MyContent/Models/SpaceshipWithCollisions/16_-_Keyboard_Desk': Can't find file.
+[2022.05.20-18.08.59:436][543]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/MyContent/Models/SpaceshipWithCollisions/16_-_Keyboard_Desk'
+[2022.05.20-18.08.59:436][543]LogLinker: Warning: [AssetLog] D:\GitHub\GALAVR\Gala_CenterUE5\Content\MyContent\Models\SpaceshipWithCollisions\GALASpaceshipWithCustomCollisionsRCH.uasset: Failed to load '/Game/MyContent/Models/SpaceshipWithCollisions/17_-_Keyboard_Desk_2': Can't find file.
+[2022.05.20-18.08.59:436][543]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/MyContent/Models/SpaceshipWithCollisions/17_-_Keyboard_Desk_2'
+[2022.05.20-18.08.59:437][543]LogLinker: Warning: [AssetLog] D:\GitHub\GALAVR\Gala_CenterUE5\Content\MyContent\Models\SpaceshipWithCollisions\GALASpaceshipWithCustomCollisionsRCH.uasset: Failed to load '/Game/MyContent/Models/SpaceshipWithCollisions/1_-_Outside_Metal_Texture': Can't find file.
+[2022.05.20-18.08.59:437][543]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/MyContent/Models/SpaceshipWithCollisions/1_-_Outside_Metal_Texture'
+[2022.05.20-18.08.59:437][543]LogLinker: Warning: [AssetLog] D:\GitHub\GALAVR\Gala_CenterUE5\Content\MyContent\Models\SpaceshipWithCollisions\GALASpaceshipWithCustomCollisionsRCH.uasset: Failed to load '/Game/MyContent/Models/SpaceshipWithCollisions/2_-_Luces': Can't find file.
+[2022.05.20-18.08.59:437][543]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/MyContent/Models/SpaceshipWithCollisions/2_-_Luces'
+[2022.05.20-18.08.59:437][543]LogLinker: Warning: [AssetLog] D:\GitHub\GALAVR\Gala_CenterUE5\Content\MyContent\Models\SpaceshipWithCollisions\GALASpaceshipWithCustomCollisionsRCH.uasset: Failed to load '/Game/MyContent/Models/SpaceshipWithCollisions/3_-_Rejilla': Can't find file.
+[2022.05.20-18.08.59:437][543]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/MyContent/Models/SpaceshipWithCollisions/3_-_Rejilla'
+[2022.05.20-18.08.59:437][543]LogLinker: Warning: [AssetLog] D:\GitHub\GALAVR\Gala_CenterUE5\Content\MyContent\Models\SpaceshipWithCollisions\GALASpaceshipWithCustomCollisionsRCH.uasset: Failed to load '/Game/MyContent/Models/SpaceshipWithCollisions/4_-_Engine': Can't find file.
+[2022.05.20-18.08.59:437][543]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/MyContent/Models/SpaceshipWithCollisions/4_-_Engine'
+[2022.05.20-18.08.59:438][543]LogLinker: Warning: [AssetLog] D:\GitHub\GALAVR\Gala_CenterUE5\Content\MyContent\Models\SpaceshipWithCollisions\GALASpaceshipWithCustomCollisionsRCH.uasset: Failed to load '/Game/MyContent/Models/SpaceshipWithCollisions/5_-_Metal_Railing': Can't find file.
+[2022.05.20-18.08.59:438][543]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/MyContent/Models/SpaceshipWithCollisions/5_-_Metal_Railing'
+[2022.05.20-18.08.59:438][543]LogLinker: Warning: [AssetLog] D:\GitHub\GALAVR\Gala_CenterUE5\Content\MyContent\Models\SpaceshipWithCollisions\GALASpaceshipWithCustomCollisionsRCH.uasset: Failed to load '/Game/MyContent/Models/SpaceshipWithCollisions/6_-_Dark_metal': Can't find file.
+[2022.05.20-18.08.59:438][543]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/MyContent/Models/SpaceshipWithCollisions/6_-_Dark_metal'
+[2022.05.20-18.08.59:438][543]LogLinker: Warning: [AssetLog] D:\GitHub\GALAVR\Gala_CenterUE5\Content\MyContent\Models\SpaceshipWithCollisions\GALASpaceshipWithCustomCollisionsRCH.uasset: Failed to load '/Game/MyContent/Models/SpaceshipWithCollisions/7_-_Metal_Galvanized': Can't find file.
+[2022.05.20-18.08.59:438][543]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/MyContent/Models/SpaceshipWithCollisions/7_-_Metal_Galvanized'
+[2022.05.20-18.08.59:438][543]LogLinker: Warning: [AssetLog] D:\GitHub\GALAVR\Gala_CenterUE5\Content\MyContent\Models\SpaceshipWithCollisions\GALASpaceshipWithCustomCollisionsRCH.uasset: Failed to load '/Game/MyContent/Models/SpaceshipWithCollisions/8_-_Stairs': Can't find file.
+[2022.05.20-18.08.59:438][543]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/MyContent/Models/SpaceshipWithCollisions/8_-_Stairs'
+[2022.05.20-18.08.59:439][543]LogLinker: Warning: [AssetLog] D:\GitHub\GALAVR\Gala_CenterUE5\Content\MyContent\Models\SpaceshipWithCollisions\GALASpaceshipWithCustomCollisionsRCH.uasset: Failed to load '/Game/MyContent/Models/SpaceshipWithCollisions/9_-_planet_logo': Can't find file.
+[2022.05.20-18.08.59:439][543]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/MyContent/Models/SpaceshipWithCollisions/9_-_planet_logo'
+[2022.05.20-18.08.59:439][543]LogLinker: Warning: [AssetLog] D:\GitHub\GALAVR\Gala_CenterUE5\Content\MyContent\Models\SpaceshipWithCollisions\GALASpaceshipWithCustomCollisionsRCH.uasset: Failed to load '/Game/MyContent/Models/SpaceshipWithCollisions/Borde_Puerta': Can't find file.
+[2022.05.20-18.08.59:439][543]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/MyContent/Models/SpaceshipWithCollisions/Borde_Puerta'
+[2022.05.20-18.08.59:439][543]LogLinker: Warning: [AssetLog] D:\GitHub\GALAVR\Gala_CenterUE5\Content\MyContent\Models\SpaceshipWithCollisions\GALASpaceshipWithCustomCollisionsRCH.uasset: Failed to load '/Game/MyContent/Models/SpaceshipWithCollisions/Cylinder_Hologram_000': Can't find file.
+[2022.05.20-18.08.59:439][543]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/MyContent/Models/SpaceshipWithCollisions/Cylinder_Hologram_000'
+[2022.05.20-18.08.59:439][543]LogLinker: Warning: [AssetLog] D:\GitHub\GALAVR\Gala_CenterUE5\Content\MyContent\Models\SpaceshipWithCollisions\GALASpaceshipWithCustomCollisionsRCH.uasset: Failed to load '/Game/MyContent/Models/SpaceshipWithCollisions/Cylinder_Hologram_001': Can't find file.
+[2022.05.20-18.08.59:439][543]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/MyContent/Models/SpaceshipWithCollisions/Cylinder_Hologram_001'
+[2022.05.20-18.08.59:440][543]LogLinker: Warning: [AssetLog] D:\GitHub\GALAVR\Gala_CenterUE5\Content\MyContent\Models\SpaceshipWithCollisions\GALASpaceshipWithCustomCollisionsRCH.uasset: Failed to load '/Game/MyContent/Models/SpaceshipWithCollisions/Malla_000': Can't find file.
+[2022.05.20-18.08.59:440][543]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/MyContent/Models/SpaceshipWithCollisions/Malla_000'
+[2022.05.20-18.08.59:440][543]LogLinker: Warning: [AssetLog] D:\GitHub\GALAVR\Gala_CenterUE5\Content\MyContent\Models\SpaceshipWithCollisions\GALASpaceshipWithCustomCollisionsRCH.uasset: Failed to load '/Game/MyContent/Models/SpaceshipWithCollisions/Malla_004': Can't find file.
+[2022.05.20-18.08.59:440][543]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/MyContent/Models/SpaceshipWithCollisions/Malla_004'
+[2022.05.20-18.08.59:440][543]LogLinker: Warning: [AssetLog] D:\GitHub\GALAVR\Gala_CenterUE5\Content\MyContent\Models\SpaceshipWithCollisions\GALASpaceshipWithCustomCollisionsRCH.uasset: Failed to load '/Game/MyContent/Models/SpaceshipWithCollisions/Puerta': Can't find file.
+[2022.05.20-18.08.59:440][543]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/MyContent/Models/SpaceshipWithCollisions/Puerta'
+[2022.05.20-18.08.59:717][544]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyContent/Blueprints/Vehicles/GALASpaceship_BP.GALASpaceship_BP_C
+[2022.05.20-18.08.59:717][544]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyContent/Blueprints/Vehicles/GALASpaceship_BP.GALASpaceship_BP_C
+[2022.05.20-18.08.59:725][544]LogActorFactory: Actor Factory spawned Blueprint /Game/MyContent/Blueprints/Vehicles/GALASpaceship_BP.GALASpaceship_BP as actor: GALASpaceship_BP_C /Game/MyContent/Maps/Gala_Center0.Gala_Center0:PersistentLevel.GALASpaceship_BP_C_0
+[2022.05.20-18.08.59:733][544]LogActorFactory: Actor Factory spawned Blueprint /Game/MyContent/Blueprints/Vehicles/GALASpaceship_BP.GALASpaceship_BP as actor: GALASpaceship_BP_C /Game/MyContent/Maps/Gala_Center0.Gala_Center0:PersistentLevel.GALASpaceship_BP_C_0
+[2022.05.20-18.09.00:852][571]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyContent/Blueprints/Vehicles/GALASpaceship_BP.GALASpaceship_BP_C
+[2022.05.20-18.09.00:852][571]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyContent/Blueprints/Vehicles/GALASpaceship_BP.GALASpaceship_BP_C
+[2022.05.20-18.09.00:864][571]LogActorFactory: Actor Factory spawned Blueprint /Game/MyContent/Blueprints/Vehicles/GALASpaceship_BP.GALASpaceship_BP as actor: GALASpaceship_BP_C /Game/MyContent/Maps/Gala_Center0.Gala_Center0:PersistentLevel.GALASpaceship_BP_C_UAID_04421AF17C8DA51101_1178599151
+[2022.05.20-18.09.00:872][571]LogActorFactory: Actor Factory spawned Blueprint /Game/MyContent/Blueprints/Vehicles/GALASpaceship_BP.GALASpaceship_BP as actor: GALASpaceship_BP_C /Game/MyContent/Maps/Gala_Center0.Gala_Center0:PersistentLevel.GALASpaceship_BP_C_UAID_04421AF17C8DA51101_1178599151
+[2022.05.20-18.09.15:757][ 84]LogEditor: Attempting to add actor of class 'GALAPlayerFP' to level at 1150.00,870.00,96.00
+[2022.05.20-18.09.16:741][133]LogEditor: Attempting to add actor of class 'GALAPlayerFP' to level at 899.89,729.27,437.52
+[2022.05.20-18.09.17:018][133]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.05.20-18.09.33:284][686]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.20-18.09.33:296][686]MapCheck: Warning: Actor ControleModule_BP have missing references to 784F092B4D0BC361F98646A2B954A3E6 
+[2022.05.20-18.09.33:299][686]LogWorldPartition: Display: GenerateStreaming started...
+[2022.05.20-18.09.33:299][686]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.05.20-18.09.33:299][686]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.05.20-18.09.33:299][686]LogWorldPartition: Display: ValidateSingleActorReferer took 16 us
+[2022.05.20-18.09.33:299][686]LogWorldPartition: Display: GetPartitionedActors took 138 us
+[2022.05.20-18.09.33:446][686]LogWorldPartition: Display: GenerateStreaming took 147 ms
+[2022.05.20-18.09.33:447][686]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.20-18.09.33:448][686]PIE: New page: PIE session: Gala_Center0 (May 20, 2022, 10:09:33 AM)
+[2022.05.20-18.09.33:455][686]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.05.20-18.09.33:455][686]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.05.20-18.09.33:455][686]LogPlayLevel: Creating play world package: /Game/MyContent/Maps/UEDPIE_0_Gala_Center0
+[2022.05.20-18.09.33:535][686]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.05.20-18.09.33:536][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080637s)
+[2022.05.20-18.09.33:536][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Maps/Gala_Center0.Gala_Center0 to /Game/MyContent/Maps/UEDPIE_0_Gala_Center0.Gala_Center0 (0.080801s)
+[2022.05.20-18.09.33:537][686]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.20-18.09.33:537][686]LogAIModule: Creating AISystem for world Gala_Center0
+[2022.05.20-18.09.33:538][686]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.05.20-18.09.33:538][686]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.05.20-18.09.33:554][686]LogWorldPartition: Display: WorldPartition initialize took 15 ms
+[2022.05.20-18.09.33:554][686]LogPlayLevel: PIE: World Init took: (0.018203s)
+[2022.05.20-18.09.33:586][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.05.20-18.09.33:588][686]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.05.20-18.09.33:588][686]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.20-18.09.33:588][686]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.20-18.09.33:589][686]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.20-18.09.33:589][686]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.20-18.09.33:589][686]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.20-18.09.33:589][686]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.20-18.09.33:589][686]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.20-18.09.33:589][686]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.20-18.09.33:590][686]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.20-18.09.33:590][686]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.20-18.09.33:590][686]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.20-18.09.33:594][686]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.20-18.09.33:648][686]LogAudioMixer: Display: Using Audio Hardware Device Headphones (4- High Definition Audio Device)
+[2022.05.20-18.09.33:649][686]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.20-18.09.33:649][686]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.20-18.09.33:649][686]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.20-18.09.33:650][686]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.05.20-18.09.33:651][686]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.05.20-18.09.33:653][686]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.05.20-18.09.33:653][686]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.05.20-18.09.33:653][686]LogInit: FAudioDevice initialized.
+[2022.05.20-18.09.33:653][686]LogAudio: Display: Audio Device (ID: 2) registered with world 'Gala_Center0'.
+[2022.05.20-18.09.33:674][686]LogLoad: Game class is 'GameModeBase'
+[2022.05.20-18.09.33:680][686]LogWorld: Bringing World /Game/MyContent/Maps/UEDPIE_0_Gala_Center0.Gala_Center0 up for play (max tick rate 0) at 2022.05.20-14.09.33
+[2022.05.20-18.09.33:681][686]LogWorld: Bringing up level for play took: 0.007030
+[2022.05.20-18.09.33:684][686]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2022.05.20-18.09.33:697][686]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=776.538 Y=463.455 Z=405.464
+[2022.05.20-18.09.33:697][686]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(21), CellsToLoad(0), CellsToUnload(0)
+[2022.05.20-18.09.33:697][686]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=776.538 Y=463.455 Z=405.464,P=0.000000 Y=66.482533 R=-0.000000
+[2022.05.20-18.09.33:705][686]LogStreaming: Display: FlushAsyncLoading: 50 QueuedPackages, 0 AsyncPackages
+[2022.05.20-18.09.33:932][686]LogStreaming: Error: Couldn't find file for package /Game/MyContent/Blueprints/Actor/SpaceshipControlModule requested by async loading code. NameToLoad: /Game/MyContent/Blueprints/Actor/SpaceshipControlModule
+[2022.05.20-18.09.33:997][686]LogStreaming: Error: Couldn't find file for package /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/0/O5/QMDULYR9EZGQUCG4DX93PK requested by async loading code. NameToLoad: /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/0/O5/QMDULYR9EZGQUCG4DX93PK
+[2022.05.20-18.09.33:998][686]LogEngine: Warning: Failed to load /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/D/XO/OQ0HS1Q26GQ82AO7ZKYHY4_UEDPIE_0_Gala_Center0_MainGrid_L0_X0_Y0_DL0
+[2022.05.20-18.09.33:998][686]LogLevelStreaming: Warning: UWorldPartitionLevelStreamingDynamic::IssueLoadRequests failed /Memory/UEDPIE_0_Gala_Center0_MainGrid_L0_X0_Y0_DL0
+[2022.05.20-18.09.34:078][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/0/YQ/YWQ7J733WXWUSHZ38OCMLV.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.20-18.09.34:078][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/1/8Q/5WOG8PWSDWGWVRDBFHJ0WJ.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.05.20-18.09.34:078][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/1/8Q/5WOG8PWSDWGWVRDBFHJ0WJ.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2022.05.20-18.09.34:078][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/1/8Q/5WOG8PWSDWGWVRDBFHJ0WJ.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2022.05.20-18.09.34:078][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/1/A1/8KJ2FGSVF6XK26OYVA8B5X.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.20-18.09.34:078][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/3/C2/8BCHIZAZ3WMLCHOZIK8RNL.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/3/C2/8BCHIZAZ3WMLCHOZIK8RNL.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/3/C2/8BCHIZAZ3WMLCHOZIK8RNL.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/3/C2/8BCHIZAZ3WMLCHOZIK8RNL.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/3/C2/8BCHIZAZ3WMLCHOZIK8RNL.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/3/C2/8BCHIZAZ3WMLCHOZIK8RNL.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/6/3Y/FWNFZLEK3C1IF4JTKKG6OR.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/6/3Y/FWNFZLEK3C1IF4JTKKG6OR.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/6/J5/WNT9WXGSLTM8QQMTO62FMX.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/6/J5/WNT9WXGSLTM8QQMTO62FMX.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/7/1U/Y9OURIRRVILA50K8B4C8FT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/7/DZ/YJPMH4TQV8NLF87GQ8Z6DI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/7/YO/YK4LIZ608DV9CSOMGCCN6D.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/8/CF/QC6TD0XOZT6K0827UON83L.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/8/CF/QC6TD0XOZT6K0827UON83L.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/8/CF/QC6TD0XOZT6K0827UON83L.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/8/CF/QC6TD0XOZT6K0827UON83L.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/8/CF/QC6TD0XOZT6K0827UON83L.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/8/CF/QC6TD0XOZT6K0827UON83L.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/8/MS/JZZCFV7BQ7521PS0G3NK0I.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/8/MS/JZZCFV7BQ7521PS0G3NK0I.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/9/QI/9825WWO4YF0ARD7DJHL7GH.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/9/QI/9825WWO4YF0ARD7DJHL7GH.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/A/3X/JCMQVUU0FCMHPXE4N3ECKP.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/A/RT/D9UEL1LM7JMFAYA8NB9ATL.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/A/RT/D9UEL1LM7JMFAYA8NB9ATL.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/A/RT/D9UEL1LM7JMFAYA8NB9ATL.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/A/RT/D9UEL1LM7JMFAYA8NB9ATL.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/A/RT/D9UEL1LM7JMFAYA8NB9ATL.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/A/VR/COZQAA20BMOLZUYGUJUXJ5.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/A/VR/COZQAA20BMOLZUYGUJUXJ5.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/A/VR/COZQAA20BMOLZUYGUJUXJ5.StaticMesh_HLOD0_Instancing_12 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/A/VR/COZQAA20BMOLZUYGUJUXJ5.StaticMesh_HLOD0_Instancing_13 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/A/VR/COZQAA20BMOLZUYGUJUXJ5.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/A/VR/COZQAA20BMOLZUYGUJUXJ5.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/A/VR/COZQAA20BMOLZUYGUJUXJ5.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/B/1N/YS6CFR0BH2KCD924YQY473.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/B/HC/1WA6JVC18ICY86KSXDDAMQ.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/B/HE/7Q9OQA8HDZFFRATC3J2112.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.20-18.09.34:079][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/B/KG/U0QTH4EUHQAMRENWMI6JTE.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2022.05.20-18.09.34:080][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/B/KG/U0QTH4EUHQAMRENWMI6JTE.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2022.05.20-18.09.34:080][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/C/7L/PAQFA9OJFA500AREARP1OK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.05.20-18.09.34:080][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/C/VK/R5NXB2M0KNQJYHQ08PKITQ.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.20-18.09.34:080][686]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/C/VK/R5NXB2M0KNQJYHQ08PKITQ.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.05.20-18.09.34:119][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:119][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:119][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:119][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:119][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:119][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:119][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:119][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:119][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:119][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:119][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:119][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:119][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:119][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:119][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:119][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:119][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:119][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:119][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:119][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:119][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:119][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:119][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:119][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:119][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:119][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:119][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:119][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:120][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:120][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:120][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:120][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:120][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L0_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0" parameter 'NormalTexture' assigned texture "BaseFlattenNormalMap_VT" requires non-virtual texture
+[2022.05.20-18.09.34:120][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:120][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:120][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:120][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:120][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:120][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:120][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:120][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:120][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:120][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:120][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:120][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:120][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:120][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:120][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:120][686]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0_Normal" requires non-virtual texture
+[2022.05.20-18.09.34:133][686]LogCesium: Loading tileset for asset ID 1
+[2022.05.20-18.09.34:133][686]LogCesium: Loading tileset for asset ID 1 done
+[2022.05.20-18.09.34:138][686]LogWorldPartition: Detected Streaming Source Teleport: PlayerController_0 -> Last Position: X=776.538 Y=463.455 Z=405.464 -> New Position: X=10000.000 Y=280.000 Z=-13346.725
+[2022.05.20-18.09.34:139][686]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(0), CellsToLoad(0), CellsToUnload(2)
+[2022.05.20-18.09.34:139][686]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=10000.000 Y=280.000 Z=-13346.725,P=0.000000 Y=0.000000 R=0.000000
+[2022.05.20-18.09.34:198][686]PIE: Server logged in
+[2022.05.20-18.09.34:200][686]PIE: Play in editor total start time 0.904 seconds.
+[2022.05.20-18.10.00:472][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-18.10.00:472][393]LogWorld: BeginTearingDown for /Game/MyContent/Maps/UEDPIE_0_Gala_Center0
+[2022.05.20-18.10.00:536][393]LogWorld: UWorld::CleanupWorld for Gala_Center0, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-18.10.00:537][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-18.10.00:574][393]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.20-18.10.00:581][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-18.10.00:604][393]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.20-18.10.00:605][393]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.05.20-18.10.00:608][393]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.05.20-18.10.00:617][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-18.10.00:660][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.05.20-18.10.00:854][394]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.05.20-18.10.00:980][394]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.05.20-18.10.31:880][652]LogDerivedDataCache: C:/Users/ryan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.236 and deleted 0 file(s) with total size 0 MiB.
+[2022.05.20-18.12.02:792][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.05.20-18.12.05:579][177]LogSlate: Window 'Save Content' being destroyed
+[2022.05.20-18.12.05:668][177]LogPackageLocalizationCache: Processed 35 localized package path(s) for 1 prioritized culture(s) in 0.012808 seconds
+[2022.05.20-18.12.05:672][177]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/D/WM/OKOBTOJG67QUOGBDFAHFFU
+[2022.05.20-18.12.05:672][177]LogSavePackage: Moving 'D:/GitHub/GALAVR/Gala_CenterUE5/Saved/OKOBTOJG67QUOGBDFAHFFUD630D9B94FDED6F6BD089EA5E450F12C.tmp' to 'D:/GitHub/GALAVR/Gala_CenterUE5/Content/__ExternalActors__/MyContent/Maps/Gala_Center0/D/WM/OKOBTOJG67QUOGBDFAHFFU.uasset'
+[2022.05.20-18.12.05:679][177]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MyContent/Maps/Gala_Center0/A/8P/0EEH7161SNN7BYDDF7KMYD
+[2022.05.20-18.12.05:680][177]LogSavePackage: Moving 'D:/GitHub/GALAVR/Gala_CenterUE5/Saved/0EEH7161SNN7BYDDF7KMYDD934F5304AC8D2FC94799693EE9DB96A.tmp' to 'D:/GitHub/GALAVR/Gala_CenterUE5/Content/__ExternalActors__/MyContent/Maps/Gala_Center0/A/8P/0EEH7161SNN7BYDDF7KMYD.uasset'
+[2022.05.20-18.12.05:695][177]Cmd: MAP LOAD FILE="D:/GitHub/GALAVR/Gala_CenterUE5/Content/MyContent/Maps/Gala_CenterEarth.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.20-18.12.05:695][177]LightingResults: New page: Lighting Build
+[2022.05.20-18.12.05:696][177]LoadErrors: New page: Loading map: Gala_CenterEarth.umap
+[2022.05.20-18.12.05:772][177]LogWorld: UWorld::CleanupWorld for Gala_Center0, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-18.12.05:772][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-18.12.05:778][177]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.05.20-18.12.05:779][177]LogWindows: Windows GetLastError: The operation completed successfully. (0)

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Gala_CenterUE5",
+			"Path": "D:\\Gala_CenterUE5\\Source\\Gala_CenterUE5.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Gala_CenterUE5Editor",
+			"Path": "D:\\Gala_CenterUE5\\Source\\Gala_CenterUE5Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

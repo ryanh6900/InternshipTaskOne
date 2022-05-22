@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\github\\galavr\\gala_centerue5\\source\\gala_centerue5\\gala_centerue5.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\galavr\\gala_centerue5\\intermediate\\build\\win64\\gala_centerue5editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\github\\galavr\\gala_centerue5\\intermediate\\build\\win64\\unrealeditor\\development\\gala_centerue5\\definitions.gala_centerue5.h",
+            "d:\\github\\galavr\\gala_centerue5\\source\\gala_centerue5\\gala_centerue5.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

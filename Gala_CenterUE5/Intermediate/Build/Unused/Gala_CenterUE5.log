@@ -1,0 +1,30 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\ryan\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (D:\GitHub\GALAVR).
+  Building Gala_CenterUE5Editor...
+  Using Visual Studio 2022 14.31.31107 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from Gala_CenterUE5 unity file: GALASpaceship.cpp
+  Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+    Executing up to 8 processes, one per physical core
+  Building 17 actions with 8 processes...
+  [1/17] Resource Default.rc2
+  [2/17] Compile SharedPCH.Engine.ShadowErrors.cpp
+  [3/17] Compile VehicleControlModule.gen.cpp
+  [4/17] Compile GALAPlayerFP.gen.cpp
+  [5/17] Compile Gala_CenterUE5.cpp
+  [6/17] Compile Gala_CenterUE5GameModeBase.gen.cpp
+  [7/17] Compile MyFloatingPawnMovement.cpp
+  [8/17] Compile GALASpaceship.gen.cpp
+  [9/17] Compile GALAPlayerFP.cpp
+  [10/17] Compile Gala_CenterUE5.init.gen.cpp
+  [11/17] Compile MyFloatingPawnMovement.gen.cpp
+  [12/17] Compile VehicleControlModule.cpp
+  [13/17] Compile Gala_CenterUE5GameModeBase.cpp
+  [14/17] Compile GALASpaceship.cpp
+  [15/17] Link UnrealEditor-Gala_CenterUE5.lib
+     Creating library D:\GitHub\GALAVR\Gala_CenterUE5\Intermediate\Build\Win64\UnrealEditor\Development\Gala_CenterUE5\UnrealEditor-Gala_CenterUE5.lib and object D:\GitHub\GALAVR\Gala_CenterUE5\Intermediate\Build\Win64\UnrealEditor\Development\Gala_CenterUE5\UnrealEditor-Gala_CenterUE5.exp
+  [16/17] Link UnrealEditor-Gala_CenterUE5.dll
+     Creating library D:\GitHub\GALAVR\Gala_CenterUE5\Intermediate\Build\Win64\UnrealEditor\Development\Gala_CenterUE5\UnrealEditor-Gala_CenterUE5.suppressed.lib and object D:\GitHub\GALAVR\Gala_CenterUE5\Intermediate\Build\Win64\UnrealEditor\Development\Gala_CenterUE5\UnrealEditor-Gala_CenterUE5.suppressed.exp
+  [17/17] WriteMetadata Gala_CenterUE5Editor.target
+  Total time in Parallel executor: 88.95 seconds
+  Total execution time: 91.08 seconds

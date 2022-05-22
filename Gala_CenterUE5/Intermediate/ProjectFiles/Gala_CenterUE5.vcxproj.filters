@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Gala_CenterUE5.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Gala_CenterUE5.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Gala_CenterUE5Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\Gala_CenterUE5">
+      <UniqueIdentifier>{63F26768-BA36-3DD2-B06E-CE5EEF94A410}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Gala_CenterUE5\Gala_CenterUE5.Build.cs">
+      <Filter>Source\Gala_CenterUE5</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Gala_CenterUE5\Gala_CenterUE5.cpp">
+      <Filter>Source\Gala_CenterUE5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gala_CenterUE5\Gala_CenterUE5.h">
+      <Filter>Source\Gala_CenterUE5</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gala_CenterUE5\Gala_CenterUE5GameModeBase.cpp">
+      <Filter>Source\Gala_CenterUE5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gala_CenterUE5\Gala_CenterUE5GameModeBase.h">
+      <Filter>Source\Gala_CenterUE5</Filter>
+    </ClInclude>
+    <Filter Include="Source\Gala_CenterUE5\Private">
+      <UniqueIdentifier>{566F1DCD-8CE4-3705-8D87-FA9C30AE91A7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Gala_CenterUE5\Private\GALAPlayerFP.cpp">
+      <Filter>Source\Gala_CenterUE5\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Gala_CenterUE5\Private\GALASpaceship.cpp">
+      <Filter>Source\Gala_CenterUE5\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Gala_CenterUE5\Private\MyFloatingPawnMovement.cpp">
+      <Filter>Source\Gala_CenterUE5\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Gala_CenterUE5\Private\VehicleControlModule.cpp">
+      <Filter>Source\Gala_CenterUE5\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Gala_CenterUE5\Public">
+      <UniqueIdentifier>{E6073DBA-47C4-3967-80E5-32D053B9FECC}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Gala_CenterUE5\Public\GALAPlayerFP.h">
+      <Filter>Source\Gala_CenterUE5\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Gala_CenterUE5\Public\GALASpaceship.h">
+      <Filter>Source\Gala_CenterUE5\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Gala_CenterUE5\Public\MyFloatingPawnMovement.h">
+      <Filter>Source\Gala_CenterUE5\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Gala_CenterUE5\Public\VehicleControlModule.h">
+      <Filter>Source\Gala_CenterUE5\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
